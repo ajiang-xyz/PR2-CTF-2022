@@ -21,5 +21,5 @@ PR2-CTF-2022
 └── writeup --------------------- contains walkthrough and all files written in the walkthrough video
     ├── readme.md                      readme
     ├── solve.py --------------------- solve script written in the walkthrough
-    ├── stats.py                       statistics script written in the walkthrough
+    └── stats.py                       statistics script written in the walkthrough
 ```
