@@ -1,0 +1,37 @@
+* {
+  font-family: 'DM Mono', monospace;
+  margin: 0;
+  padding: 0;
+  background-color: #fbeef4;
+  color: #344193;
+}
+
+#directions {
+  position: absolute;
+  font-size: 50px;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -25%);
+}
+
+#hint {
+  position: absolute;
+  font-size: 12px;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -35%);
+}
+
+#container {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+.flag {
+  font-size: 20px;
+  width: 100vw;
+  float: left;
+  text-align: center;
+  text-transform: bold;
+}
