@@ -22,5 +22,4 @@ PR2-CTF-2022
     ├── readme.md                      readme
     ├── solve.py --------------------- solve script written in the walkthrough
     ├── stats.py                       statistics script written in the walkthrough
-    └── walkthrough.mp4 -------------- walkthrough video
 ```
