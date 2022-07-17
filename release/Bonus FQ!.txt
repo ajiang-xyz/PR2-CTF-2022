@@ -1,9 +1,0 @@
-Bonus FQ!!
-
-This forensics question is probably unlike anything you've ever seen before. This is a rather challenging CTF-style challenge and your goal is to extract a single flag in the format 'FLAG{FLAG_TEXT_HERE}' without the quotes. Note: the entirety of the flag is uppercased, and all characters in the flag -- excluding the curly braces and underscores -- are in the English alphabet (so the flag has no numbers or anything fishy)
-
-Since it's pretty hard and there are 3 distinct steps involved in solving the challenge, I'll give you a hint to get started on the first two steps: try getting an image out of the zip file somehow and then maybe research image steganography a bit
-
-After that, good luck! Oh, and to make things a bit spicier, if you're the first person to message me on Discord and send the entire flag, an explanation of how you solved the challenge, and a score report screenshot of a full score on the image, you'll be the most goated CTFer in our class and you'll immediately get the opportunity to present this weeks Windows image!
-
-Good luck, don't die, and have fun!!
